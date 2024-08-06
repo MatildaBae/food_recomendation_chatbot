@@ -79,39 +79,6 @@ Welcome to the repository of the Food Recommendation AI Chatbot, developed to re
 
 ---
 
-## Getting Started
-
-To get started with the Food Recommendation AI Chatbot, follow these steps:
-
-1. **Clone the repository**:
-    ```bash
-    git clone https://github.com/your-username/food-recommendation-chatbot.git
-    ```
-
-2. **Install the required packages**:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. **Run the chatbot**:
-    ```bash
-    python chatbot.py
-    ```
-
----
-
-## Contribution
-
-We welcome contributions to improve this project! Please fork the repository and submit pull requests with any enhancements.
-
----
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## Acknowledgments
 
 - Professor Sanghoun Song for his guidance and supervision.
