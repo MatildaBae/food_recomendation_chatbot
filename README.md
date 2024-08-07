@@ -1,4 +1,4 @@
-# Food Recommendation AI Chatbot
+# 🍔 Food Recommendation AI Chatbot
 
 **Language and Artificial Intelligence Course**  
 *Supervised by Professor Sanghoun Song*  
